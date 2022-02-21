@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dieginho24/Cool-Domains-App/static/css/main.f59d5f34.css",
+    "main.js": "/Dieginho24/Cool-Domains-App/static/js/main.21a53e3e.js",
+    "static/media/twitter-logo.svg": "/Dieginho24/Cool-Domains-App/static/media/twitter-logo.ab177c7931af382e900d582694440d6a.svg",
+    "static/media/polygonlogo.png": "/Dieginho24/Cool-Domains-App/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
+    "index.html": "/Dieginho24/Cool-Domains-App/index.html",
+    "main.f59d5f34.css.map": "/Dieginho24/Cool-Domains-App/static/css/main.f59d5f34.css.map",
+    "main.21a53e3e.js.map": "/Dieginho24/Cool-Domains-App/static/js/main.21a53e3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59d5f34.css",
+    "static/js/main.21a53e3e.js"
+  ]
+}
